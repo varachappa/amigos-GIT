@@ -1,1 +1,3 @@
-func main() {} func main() {} func main() {} func main() {} func main() {} func main() {} func main() {} func main() {} func main() {} 
+package main
+
+func main() {} 
